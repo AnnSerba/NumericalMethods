@@ -1,0 +1,16 @@
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\bin\Release\WpfApp.exe.config
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\bin\Release\WpfApp.exe
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\bin\Release\WpfApp.pdb
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp.csprojResolveAssemblyReference.cache
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\MainWindow.baml
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\MainWindow.g.cs
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\App.g.cs
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp_MarkupCompile.cache
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp.g.resources
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp.Properties.Resources.resources
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp.csproj.GenerateResource.Cache
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp.exe
+D:\Dropbox\Открытая\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp.pdb
+C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\WpfApp\bin\Release\WpfApp.exe.config
+C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp.exe
+C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\WpfApp\obj\Release\WpfApp.pdb

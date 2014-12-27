@@ -1,0 +1,15 @@
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\bin\Release\UnitTestЧисленныеМетоды.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\bin\Release\UnitTestЧисленныеМетоды.pdb
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.csprojResolveAssemblyReference.cache
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.pdb
+D:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\bin\Release\UnitTestЧисленныеМетоды.dll
+D:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\bin\Release\UnitTestЧисленныеМетоды.pdb
+D:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.csprojResolveAssemblyReference.cache
+D:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.dll
+D:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.pdb
+G:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\bin\Release\UnitTestЧисленныеМетоды.dll
+G:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\bin\Release\UnitTestЧисленныеМетоды.pdb
+G:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.csprojResolveAssemblyReference.cache
+G:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.dll
+G:\Dropbox\Открытая\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Release\UnitTestЧисленныеМетоды.pdb

@@ -1,0 +1,29 @@
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыWindowsForms.exe.config
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыWindowsForms.exe
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыWindowsForms.pdb
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыLib.pdb
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.Properties.Resources.resources
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.ГлавноеМеню.resources
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.exe
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.pdb
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.МетодыПростойИтерацииИЗейделяWindowsForm.resources
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.МетодГаусаИЖорданаГаусаWindowsForm.resources
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.МетодПрогонкиWindowsForm.resources
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыWindowsForms.exe.config
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.exe
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.pdb
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.Properties.Resources.resources
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.ГлавноеМеню.resources
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.МетодГаусаИЖорданаГаусаWindowsForm.resources
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.МетодПрогонкиWindowsForm.resources
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.МетодХолецкогоWindowsForm.resources
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.МетодыПростойИтерацииИЗейделяWindowsForm.resources
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Debug\ЧисленныеМетодыWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыWindowsForms.exe
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыWindowsForms.pdb
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Debug\ЧисленныеМетодыLib.pdb

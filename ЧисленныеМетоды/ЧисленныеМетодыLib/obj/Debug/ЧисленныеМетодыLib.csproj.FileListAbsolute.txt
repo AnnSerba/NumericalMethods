@@ -1,0 +1,9 @@
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Debug\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Debug\ЧисленныеМетодыLib.pdb
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Debug\ЧисленныеМетодыLib.csprojResolveAssemblyReference.cache
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Debug\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\Численные методы\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Debug\ЧисленныеМетодыLib.pdb
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Debug\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Debug\ЧисленныеМетодыLib.pdb
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Debug\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Debug\ЧисленныеМетодыLib.pdb

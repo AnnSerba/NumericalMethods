@@ -1,0 +1,211 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" 
+		xmlns:ee="http://schemas.microsoft.com/expression/2010/effects" 
+        mc:Ignorable="d"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" 
+        x:Class="WpfApplication2.MainWindow"
+        Title="MainWindow"
+        Width="581"
+        Height="402">
+        
+	<Window.Resources>
+        
+ 
+		<Storyboard x:Key="OnClick1"/>
+		<Storyboard x:Key="OnClick2"/>
+		<Storyboard x:Key="Window"/>
+        
+ 
+    </Window.Resources>
+	<Window.Triggers>
+		<EventTrigger RoutedEvent="ButtonBase.Click" SourceName="Решить">
+			<BeginStoryboard Storyboard="{StaticResource OnClick1}"/>
+		</EventTrigger>
+	</Window.Triggers>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="textBlock" Grid.ColumnSpan="2"
+			Margin="0"
+			HorizontalAlignment="Center"
+			Grid.IsSharedSizeScope="True"
+			Text="Решение систем линейных уравнений"
+			TextWrapping="Wrap" Cursor="None" >
+        	<TextBlock.TextEffects>
+        		<TextEffect PositionCount="10"/>
+        	</TextBlock.TextEffects>
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.300" Storyboard.TargetProperty="FontSize" To="28" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Duration="0:0:0.800" Storyboard.TargetProperty="FontSize" To="18" />
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+        
+        <GroupBox Grid.Row="1"
+			Margin="0"
+			HorizontalContentAlignment="Right"
+			VerticalContentAlignment="Center"
+			Grid.IsSharedSizeScope="True"
+			Header="Расширенная матрица">
+            <Grid Margin="0" Grid.IsSharedSizeScope="True">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*" />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <DataGrid x:Name="dataGridViewAij"
+					HorizontalContentAlignment="Stretch"
+					VerticalContentAlignment="Stretch"
+					Grid.IsSharedSizeScope="True"
+					ScrollViewer.CanContentScroll="False" SelectionChanged="dataGridViewAij_SelectionChanged" EnableRowVirtualization="False" IsManipulationEnabled="True">
+                    <DataGrid.ItemBindingGroup>
+                        <BindingGroup SharesProposedValues="True"/>
+                    </DataGrid.ItemBindingGroup>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="A[i][1]"  />
+                        <DataGridTextColumn Binding="{x:Null}" ClipboardContentBinding="{x:Null}" Header="A[i][2]" />
+                    </DataGrid.Columns>
+                    <ListBoxItem/>
+                    <ListBoxItem/>
+                </DataGrid>
+                <DataGrid x:Name="dataGridViewBi"
+					Grid.Column="1"
+					HorizontalContentAlignment="Stretch"
+					VerticalContentAlignment="Stretch"
+					Grid.IsSharedSizeScope="True"
+					ScrollViewer.CanContentScroll="False">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{x:Null}"
+							ClipboardContentBinding="{x:Null}"
+							Header="B[i]" />
+                    </DataGrid.Columns>
+                    <TabItem />
+                    <TabItem />
+                </DataGrid>
+            </Grid>
+        </GroupBox>
+        <Grid Grid.Row="1"
+			Grid.Column="1"
+			Margin="0"
+			IsManipulationEnabled="True">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="103*" />
+                <RowDefinition Height="57*" />
+            </Grid.RowDefinitions>
+            <GroupBox HorizontalContentAlignment="Stretch"
+				VerticalContentAlignment="Stretch"
+				Header="Изменение матрицы">
+                <StackPanel Margin="0" Orientation="Vertical">
+                    <Button  x:Name="Увеличить_размер_матрицы"
+						HorizontalContentAlignment="Center"
+						VerticalContentAlignment="Center"
+						Click="buttonУвеличить_размер_матрицыClick"
+						Content="Увеличить размер матрицы"
+						Grid.IsSharedSizeScope="True"
+						ScrollViewer.HorizontalScrollBarVisibility="Auto"
+						UseLayoutRounding="False"/>
+                    <Button x:Name="Уменьшить_размер_матрицы"
+						HorizontalContentAlignment="Center"
+						VerticalContentAlignment="Center"
+						Click="buttonУменьшить_размер_матрицыClick"
+						Content="Уменьшить размер матрицы" />
+                    <Button x:Name="Решить"
+						HorizontalContentAlignment="Center"
+						VerticalContentAlignment="Center"
+						Click="buttonРешитьClick"
+						Content="Решить" />
+                </StackPanel>
+            </GroupBox>
+            <GroupBox x:Name="Точность"
+				Grid.Row="1"
+				Grid.RowSpan="2"
+				Header="Точность">
+                <TextBox x:Name="textBoxТочность" Text="0,0001" TextWrapping="Wrap" />
+
+            </GroupBox>
+        </Grid>
+        <GroupBox Grid.Row="2"
+			Grid.ColumnSpan="2"
+			Margin="0"
+			HorizontalContentAlignment="Stretch"
+			VerticalContentAlignment="Stretch"
+			Grid.IsSharedSizeScope="True"
+			Header="Методы">
+            <Grid Margin="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="292*" />
+                    <ColumnDefinition Width="269*" />
+                </Grid.ColumnDefinitions>
+                <GroupBox Margin="0,0,0,-0.8" Header="Линейные">
+                    <ListBox x:Name="listBoxЛинейные"
+						Margin="0"
+						VerticalContentAlignment="Top">
+                        <CheckBox x:Name="checkBoxМетодГаусса"
+							Content="Метод Гаусса"
+							IsChecked="True" />
+                        <CheckBox x:Name="checkBoxМетодГауссаЖордана"
+							Content="Метод Гаусса-Жордана"
+							IsChecked="True" />
+                        <CheckBox x:Name="checkBoxСхемаХолецкого"
+							Content="Компактная схема Гаусса. Схема Холецкого"
+							IsChecked="True" />
+                        <CheckBox x:Name="checkBoxМетодПрогонки" Content="Метод прогонки" />
+                    </ListBox>
+                </GroupBox>
+                <GroupBox Grid.Column="1"
+					Margin="0"
+					Header="Итерационные">
+                    <ListBox x:Name="listBoxИтерационные"
+						Margin="0"
+						VerticalContentAlignment="Top">
+                        <CheckBox x:Name="checkBoxМетодПростойИтерации"
+							Content="Метод простой итерации"
+							IsChecked="True" />
+                        <CheckBox x:Name="checkBoxМетодЗейделя"
+							Content="Метод Зейделя"
+							IsChecked="True" />
+                    </ListBox>
+                </GroupBox>
+            </Grid>
+        </GroupBox>
+        <TextBlock Grid.Row="3"
+			Grid.ColumnSpan="2"
+			Margin="0"
+			Grid.IsSharedSizeScope="True"
+			TextAlignment="Center"
+			TextWrapping="Wrap"><Run Text="Серба А.В." /><Run Text=" Малиновский А.А." /><LineBreak /><Run Text="Версия 1.1." /></TextBlock>
+    </Grid>
+</Window>

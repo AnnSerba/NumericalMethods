@@ -1,0 +1,5 @@
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\bin\Debug\UnitTestЧисленныеМетоды.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\bin\Debug\UnitTestЧисленныеМетоды.pdb
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Debug\UnitTestЧисленныеМетоды.csprojResolveAssemblyReference.cache
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Debug\UnitTestЧисленныеМетоды.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\UnitTestЧисленныеМетоды\obj\Debug\UnitTestЧисленныеМетоды.pdb

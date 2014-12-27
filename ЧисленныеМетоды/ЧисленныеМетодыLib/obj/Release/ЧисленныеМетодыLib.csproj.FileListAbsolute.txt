@@ -1,0 +1,17 @@
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Release\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Release\ЧисленныеМетодыLib.pdb
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\ChisMetod\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.pdb
+D:\Dropbox\Открытая\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Release\ЧисленныеМетодыLib.dll
+D:\Dropbox\Открытая\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Release\ЧисленныеМетодыLib.pdb
+D:\Dropbox\Открытая\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.dll
+D:\Dropbox\Открытая\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.pdb
+G:\Dropbox\Открытая\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Release\ЧисленныеМетодыLib.dll
+G:\Dropbox\Открытая\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Release\ЧисленныеМетодыLib.pdb
+G:\Dropbox\Открытая\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.dll
+G:\Dropbox\Открытая\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.pdb
+C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Release\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыLib\bin\Release\ЧисленныеМетодыLib.pdb
+C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.csprojResolveAssemblyReference.cache
+C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.dll
+C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыLib\obj\Release\ЧисленныеМетодыLib.pdb
