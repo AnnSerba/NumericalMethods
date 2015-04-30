@@ -80,26 +80,21 @@ namespace ЧисленныеМетодыWindowsForms
                     double resultsТочность = 0;
                     if (double.TryParse(textBoxТочность.Text, out resultsТочность) == true)
                     {
-                        if (checkedListBoxПрямые.CheckedItems.Contains("Метод Гаусса") == true)
-                        {
+                       
                             МетодГаусаИЖорданаГаусаWindowsForm МГWF = new МетодГаусаИЖорданаГаусаWindowsForm(
                                 расширеннаяМатрица, МетодГаусаИЖорданаГаусаWindowsForm.Метод.Гауса, resultsТочность);
                             МГWF.Visible = true;
                             МГWF.Text += "Метод Гауса";
-                        }
-                        if (checkedListBoxПрямые.CheckedItems.Contains("Метод Гаусса — Жордана") == true)
-                        {
+                      
                             МетодГаусаИЖорданаГаусаWindowsForm МГЖWF = new МетодГаусаИЖорданаГаусаWindowsForm(
                                 расширеннаяМатрица, МетодГаусаИЖорданаГаусаWindowsForm.Метод.ГаусаЖордана, resultsТочность);
                             МГЖWF.Visible = true;
                             МГЖWF.Text = "Метод Гаусса — Жордана";
-                        }
-                        if (checkedListBoxПрямые.CheckedItems.Contains("Компактный метод Гусса. Схема Холецкого") == true)
-                        {
+                       
                             МетодХолецкогоWindowsForm МЧWF = new МетодХолецкогоWindowsForm(расширеннаяМатрица);
                             МЧWF.Visible = true;
                             МЧWF.Text = "Компактный метод Гусса. Схема Холецкого";
-                        }
+                        
                         if (checkedListBoxПрямые.CheckedItems.Contains("Метод прогонки") == true)
                         {
                             МетодПрогонкиWindowsForm МПWF = new МетодПрогонкиWindowsForm(расширеннаяМатрица);

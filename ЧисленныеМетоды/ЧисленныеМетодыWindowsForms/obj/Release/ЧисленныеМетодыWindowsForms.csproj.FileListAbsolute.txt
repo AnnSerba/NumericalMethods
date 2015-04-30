@@ -73,3 +73,18 @@ C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\
 C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.МетодХолецкогоWindowsForm.resources
 C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.МетодыПростойИтерацииИЗейделяWindowsForm.resources
 C:\Users\Аня\Google Диск\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Release\ЧисленныеМетодыWindowsForms.exe.config
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.exe
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.pdb
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Release\ЧисленныеМетодыWindowsForms.exe
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Release\ЧисленныеМетодыWindowsForms.pdb
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Release\ЧисленныеМетодыLib.dll
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\bin\Release\ЧисленныеМетодыLib.pdb
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.Properties.Resources.resources
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.ГлавноеМеню.resources
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.МетодГаусаИЖорданаГаусаWindowsForm.resources
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.МетодПрогонкиWindowsForm.resources
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.МетодХолецкогоWindowsForm.resources
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.МетодыПростойИтерацииИЗейделяWindowsForm.resources
+C:\Users\Ann\Documents\GitHub\NumericalMethods\ЧисленныеМетоды\ЧисленныеМетодыWindowsForms\obj\Release\ЧисленныеМетодыWindowsForms.csproj.GenerateResource.Cache

@@ -148,7 +148,6 @@
             this.dataGridViewBi.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridViewBi.Location = new System.Drawing.Point(3, 16);
             this.dataGridViewBi.Name = "dataGridViewBi";
-            this.dataGridViewBi.ReadOnly = true;
             this.dataGridViewBi.RowHeadersVisible = false;
             this.dataGridViewBi.Size = new System.Drawing.Size(171, 179);
             this.dataGridViewBi.TabIndex = 0;
@@ -157,7 +156,6 @@
             // 
             this.Bi.HeaderText = "B[i]";
             this.Bi.Name = "Bi";
-            this.Bi.ReadOnly = true;
             // 
             // tableLayoutPanel5
             // 
